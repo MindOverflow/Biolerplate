@@ -1,0 +1,2 @@
+# Biolerplate
+Шаблон приложения Spring
